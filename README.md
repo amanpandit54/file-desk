@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # File Desk
 
 A Streamlit app for creating, reading, updating and deleting text files, built on top of a simple Python file-handling script.
@@ -37,3 +38,6 @@ file-desk/
 - Search and filter files
 - Folder support
 - Markdown preview
+=======
+# file-desk
+>>>>>>> 9c6746e083a04052b9ef48cf88da2dcf1400b740
